@@ -30,12 +30,6 @@ Unleash the potential of your anime dataset through compelling visualizations cr
    - Run the scripts and notebooks to generate captivating visualizations.
    - Customize the code to suit your specific dataset and research questions.
 
-## Examples
-
-![Example Plot](example_plot.png)
-
-*Caption: An example plot showcasing the distribution of anime ratings across genres.*
-
 ## Contribution Guidelines
 
 We welcome contributions to enhance the capabilities of this Anime Data Analysis project. Whether it's adding new visualizations, improving existing ones, or optimizing code, your contributions can make a significant impact. Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
